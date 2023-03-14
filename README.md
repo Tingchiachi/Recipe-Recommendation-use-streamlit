@@ -1,2 +1,29 @@
 # Recipe-Recommendation-use-streamlit
 食譜推薦
+
+## Python套件
+使用streamlit創建Web app
+
+### st.write()使用方法：
+
+st.write(data_frame) : Displays the DataFrame as a table.
+
+st.write(func) : Displays information about a function.
+
+st.write(markdown)
+
+### 繪圖功能
+st.line_chart()
+
+st.bar_chart()
+
+## 食譜網站
+爬取兩個網站的食譜
+1. [icook](https://icook.tw/)
+2. [cookpad](https://cookpad.com/tw/home)
+
+## 飲食習慣
+依據台灣人最常的幾種進行區分，分成台式、義式兩種料理方式。
+
+## 使用方法
+輸入今天想吃的國家料理及食材數量、種類，最後就會推薦適當的食譜！
