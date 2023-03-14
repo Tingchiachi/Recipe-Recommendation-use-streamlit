@@ -4,7 +4,7 @@
 ## Python套件
 使用streamlit創建Web app
 
-### st.write()使用方法：
+### st.write()使用方法
 
 st.write(data_frame) : Displays the DataFrame as a table.
 
@@ -27,3 +27,5 @@ st.bar_chart()
 
 ## 使用方法
 輸入今天想吃的國家料理及食材數量、種類，最後就會推薦適當的食譜！
+
+![image](https://github.com/Tingchiachi/Recipe-Recommendation-use-streamlit/blob/main/streamlit.png)
