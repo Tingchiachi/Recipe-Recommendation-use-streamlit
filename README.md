@@ -19,7 +19,7 @@ st.bar_chart()
 
 ## 食譜網站
 爬取兩個網站的食譜
->get_recipe.ipynb中get_icook為爬取icook，get_recipe為爬取cookpad
+>get_recipe.ipynb檔中的get_icook為爬取icook，get_recipe為爬取cookpad
 1. [icook](https://icook.tw/)
 2. [cookpad](https://cookpad.com/tw/home)
 
@@ -28,5 +28,6 @@ st.bar_chart()
 
 ## 使用方法
 輸入今天想吃的國家料理及食材數量、種類，最後就會推薦適當的食譜！
->使用recipe.py
+>使用recipe.py檔
+
 ![image](https://github.com/Tingchiachi/Recipe-Recommendation-use-streamlit/blob/main/streamlit.png)
