@@ -28,5 +28,5 @@ st.bar_chart()
 
 ## 使用方法
 輸入今天想吃的國家料理及食材數量、種類，最後就會推薦適當的食譜！
-
+>使用recipe.py
 ![image](https://github.com/Tingchiachi/Recipe-Recommendation-use-streamlit/blob/main/streamlit.png)
