@@ -19,10 +19,9 @@ st.bar_chart()
 
 ## 食譜網站
 爬取兩個網站的食譜
+>get_recipe.ipynb中get_icook為爬取icook，get_recipe為爬取cookpad
 1. [icook](https://icook.tw/)
 2. [cookpad](https://cookpad.com/tw/home)
-
->get_recipe.ipynb中get_icook為爬取icook，get_recipe為爬取cookpad
 
 ## 飲食習慣
 依據台灣人最常的幾種進行區分，分成台式、義式、日式三種料理方式。
